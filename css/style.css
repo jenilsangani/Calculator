@@ -47,9 +47,9 @@ button:active {
 
 #self {
   margin-bottom: auto;
-  /* color: red; */
-  padding-left: 610px;
   margin-bottom: 20px;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
 }
